@@ -1,4 +1,4 @@
-# Getting Started#Sanjoy
+# Getting Started#Sanjoy Sa
 
 ### Reference Documentation
 For further reference, please consider the following sections:
